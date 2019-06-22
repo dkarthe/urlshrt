@@ -1,6 +1,6 @@
 <?php 
 //Url to shorten
-$longUrl = 'http://'; 
+$longUrl = 'https://dkarthe.github.io/urlshrt/'; 
 $apiKey = 'AIzaSyCCetTRd5A_CnT1IX2ERJHKmmdqGHMVXk4'; 
 // You can get API key here : Login to google and 
 // go to http://code.google.com/apis/console/ 
